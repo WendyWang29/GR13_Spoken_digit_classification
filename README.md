@@ -1,4 +1,4 @@
-# GR13_Speech_recognition
+# GR13_Spoken digit classification
 
 This readme is meant to provide the user with important informations regarding how to properly run the code. The user can choose what file to run based on his/her OS and should  also have installed the listed Python libraries. We also provide some specifications about SVN.
 
