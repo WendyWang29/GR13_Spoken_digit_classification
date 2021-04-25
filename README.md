@@ -1,13 +1,16 @@
 # GR13_Speech_recognition
-Speech Recognition, first assignment for CMLS group 13
 
-2 versions available: Windows and MacOS (only one small difference in the code)
+## 2 code versions:
+* Windows
+* MacOS, Linux
 
-Python libraries required:
-Numpy
-Pandas
-Librosa
-IPython
-Matplotlib
-OS
-Scikit Learn
+the difference lies in one line of code in the filename splitting process. Windows uses backslashes ( \ ) for paths to directories, while MacOS (and Linux) use the forward slash ( / ). This difference plays a major role in the filename splitting process in our project.
+
+## Python libraries used:
+* Librosa
+* Scikit Learn
+* Numpy
+* Pandas
+* Matplotlib
+* IPython
+* OS
